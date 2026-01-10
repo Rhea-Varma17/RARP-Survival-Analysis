@@ -19,9 +19,9 @@ This project focuses on **survival analysis** and **PSA threshold assessment** f
 ├── figures/ # Generated plots (Kaplan–Meier, ROC curves)
 ├── README.md # Project overview and instructions
 ├── requirements.txt # Python dependencies
-└── .gitignore # Prevents uploading sensitive data```
+└── .gitignore # Prevents uploading sensitive data
 
-
+```
 ---
 
 ## Notebooks
