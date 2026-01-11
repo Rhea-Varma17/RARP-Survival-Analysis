@@ -51,7 +51,7 @@ This project focuses on **survival analysis** and **PSA threshold assessment** f
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/RARP-Survival-Analysis.git
+   git clone https://github.com/Rhea-Varma17/RARP-Survival-Analysis.git
 
 ## Install dependencies
 pip install -r requirements.txt
