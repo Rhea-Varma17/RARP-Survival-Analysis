@@ -48,8 +48,6 @@ The analysis is conducted using established statistical techniques commonly appl
 
 - **Kaplan–Meier survival analysis**  
   To estimate recurrence-free survival over time
-- **Cox Proportional Hazards modeling**  
-  To quantify relative risk (hazard ratios) associated with PSA and clinical covariates
 - **ROC–AUC analysis**  
   To evaluate the discriminative ability of PSA thresholds for recurrence
 
